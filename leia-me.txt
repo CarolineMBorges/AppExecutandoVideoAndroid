@@ -1,0 +1,1 @@
+Este projeto mostra como executar um video, configurar o player e ocultar alguns componentes da interface.
